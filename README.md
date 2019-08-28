@@ -1,3 +1,3 @@
 # hello-world
 Description for hello-world
-Thi is my first GITHub project
+This is my first GITHub project
